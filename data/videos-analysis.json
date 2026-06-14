@@ -1,0 +1,115 @@
+{
+  "project_name": "抖音爆款视频追踪系统",
+  "project_owner": "ezmutmdp",
+  "created_date": "2026-06-14",
+  "description": "系统追踪和分析抖音平台翻盘相关爆款视频",
+  "videos": [
+    {
+      "id": 1,
+      "title": "从负债到致富的翻盘故事",
+      "publish_date": "2026-05-15",
+      "creator": "创作者A",
+      "type": "翻盘故事",
+      "metrics": {
+        "views": 5000000,
+        "likes": 250000,
+        "comments": 45000,
+        "shares": 80000,
+        "collections": 120000,
+        "engagement_rate": "8.7%",
+        "record_date": "2026-06-10"
+      },
+      "content_analysis": {
+        "core_idea": "普通人通过创业改变人生，实现财富自由",
+        "flipover_element": "债务 → 财富的逆转",
+        "target_audience": ["20-35岁", "创业感兴趣者", "渴望改变的年轻人"],
+        "spread_characteristics": "励志故事+具体数据支撑+强对比"
+      },
+      "success_factors": {
+        "trending_utilization": "是 - 蹭创业热",
+        "emotional_drivers": ["感动", "希望", "羡慕"],
+        "visual_features": "开头vs结尾对比画面、动态转场",
+        "copy_strength": 5,
+        "copy_highlights": "标题制造反差，激发好奇心",
+        "music_style": "励志背景音乐"
+      },
+      "production_insights": {
+        "duration": "45-60秒",
+        "key_frames": ["痛苦过去", "转折点", "成功现在"],
+        "text_overlay": "大量数据和数字展示",
+        "structure": "问题-解决-成果"
+      },
+      "comment_insights": {
+        "top_sentiment": "正向95%",
+        "top_keywords": ["励志", "坚持", "创业", "翻盘"],
+        "engagement_type": "评论点赞与转发为主"
+      },
+      "links": {
+        "video_url": "https://www.douyin.com/video/example1",
+        "creator_profile": "https://www.douyin.com/user/creator_a"
+      },
+      "recorded_by": "ezmutmdp",
+      "recorded_date": "2026-06-10"
+    },
+    {
+      "id": 2,
+      "title": "职场逆袭-被裁反而升职加薪",
+      "publish_date": "2026-04-20",
+      "creator": "创作者B",
+      "type": "逆袭",
+      "metrics": {
+        "views": 3500000,
+        "likes": 180000,
+        "comments": 32000,
+        "shares": 55000,
+        "collections": 95000,
+        "engagement_rate": "8.4%",
+        "record_date": "2026-06-10"
+      },
+      "content_analysis": {
+        "core_idea": "被裁员后的完美反转，最终升职加薪",
+        "flipover_element": "绝境 → 升职加薪",
+        "target_audience": ["上班族", "职场人士", "有焦虑的年轻人"],
+        "spread_characteristics": "强反差+爽感故事+职场共鸣"
+      },
+      "success_factors": {
+        "trending_utilization": "是 - 职场热点",
+        "emotional_drivers": ["惊喜", "兴奋", "爽感"],
+        "visual_features": "快速剪辑+字幕+转场效果",
+        "copy_strength": 5,
+        "copy_highlights": "开门见山的反转，制造观看欲",
+        "music_style": "快节奏背景音乐"
+      },
+      "production_insights": {
+        "duration": "30-45秒",
+        "key_frames": ["被裁通知", "反思沉淀", "机遇出现", "成功反转"],
+        "text_overlay": "重点词汇突出显示",
+        "structure": "危机-沉淀-反转-成功"
+      },
+      "comment_insights": {
+        "top_sentiment": "正向92%",
+        "top_keywords": ["逆袭", "职场", "翻盘", "加油"],
+        "engagement_type": "评论讨论与分享为主"
+      },
+      "links": {
+        "video_url": "https://www.douyin.com/video/example2",
+        "creator_profile": "https://www.douyin.com/user/creator_b"
+      },
+      "recorded_by": "ezmutmdp",
+      "recorded_date": "2026-06-10"
+    }
+  ],
+  "statistics": {
+    "total_videos": 2,
+    "average_views": 4250000,
+    "average_engagement_rate": "8.55%",
+    "tracking_started": "2026-06-14",
+    "update_frequency": "每周更新"
+  },
+  "analysis_dimensions": {
+    "by_content_type": "按内容类型分析翻盘视频特征",
+    "by_emotion": "按情感驱动分析传播力",
+    "by_creator": "按博主特征分析爆款率",
+    "by_time": "按发布时间分析传播规律"
+  }
+}
